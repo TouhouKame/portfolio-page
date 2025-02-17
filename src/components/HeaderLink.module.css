@@ -1,0 +1,10 @@
+.link {
+  padding-left: 5%;
+  padding-right: 5%;
+
+  border-left: 2px solid black;
+}
+
+link:last-child {
+  padding-right: 0;
+}

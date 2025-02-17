@@ -1,0 +1,15 @@
+{
+  "title": "Hello, I'm Simon",
+  "aboutMeTxt": "Hi, I'm Simon! I am a self-taught frontend developer with a background in trades, where precision, quality, and efficiency were essential to getting the job done right. I bring that same mindset to frontend development, crafting clean, responsive, and user-friendly interfaces. My passion for technology goes beyond just writing code—I’m deeply fascinated by new and emerging technologies and love exploring how different systems interact under the hood. Whether it’s optimizing performance, improving user experience, or learning the latest frameworks, I’m always eager to expand my knowledge and push the boundaries of what’s possible on the web.",
+  "socialHeader": "My Social Media",
+  "socialBody": "Feel free to look at my work history on Linkedin. You can also check out the source code for my projects, and other ones that are still in progress, on GitHub!",
+  "contactHeader": "Contact",
+  "selectLabel": "Language",
+  "project1": {
+    "description": "UsePopcorn will help you search and track what movies you have watched and your rating of them. You can see how many movies you have rated as well as the average runtime, user rating, and IMDb rating of selected movies. Data is stored in local storage, so even with no account or upon exiting the page user data remains."
+  },
+  "project2": {
+    "description": "Forkify allows the user to compile recipes from an API, or add their own with the customization tool. Built from Jonas Schmedtmann's Complete JavaScript course."
+  },
+  "projectLink": "Check it out here..."
+}

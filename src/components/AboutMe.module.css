@@ -1,0 +1,10 @@
+.paragraph {
+  /* margin: auto; */
+  margin: auto;
+  padding: clamp(10px, 2vw, 40px);
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  justify-content: space-around;
+}

@@ -1,0 +1,11 @@
+.header {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.header h1 {
+  font-size: 5rem;
+}
