@@ -9,8 +9,8 @@ const AboutMe: FC<AboutMeProps> = ({}) => {
   const { t } = useTranslation();
 
   return (
-    <div className={styles.paragraph}>
-      <p>{t("aboutMeTxt")}</p>
+    <div className={styles.paragraphBox}>
+      <p className={styles.text}>{t("aboutMeTxt")}</p>
     </div>
   );
 };
