@@ -3,12 +3,12 @@
     "title": "UsePopcorn",
     "link": "https://usepopcorn-simon.netlify.app/",
     "description": "UsePopcorn will help you search and track what movies you have watched and your rating of them. You can see how many movies you have rated as well as the average runtime, user rating, and IMDb rating of selected movies. Data is stored in local storage, so even with no account or upon exiting the page user data remains.",
-    "imageRoute": "../assets/usepopcorn.png"
+    "imageRoute": "../public/assets/usepopcorn.png"
   },
   {
     "title": "Forkify",
     "link": "https://forkify-simon-mclean.netlify.app/",
     "description": "Forkify allows the user to compile recipes from an API, or add their own with the customization tool. Built from Jonas Schmedtmann's Complete JavaScript course.",
-    "imageRoute": "../assets/forkify.png"
+    "imageRoute": "../public/assets/forkify.png"
   }
 ]
